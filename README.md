@@ -20,4 +20,4 @@ Tento projekt je jednoduchá webová aplikace, která slouží jako slovník mod
 Chcete-li přispět do projektu, otevřete prosím issue na GitHubu nebo vytvořte pull request.
 
 ## Kontakt
-Pokud máte jakékoliv otázky, napište na: email@example.com.
+Pokud máte jakékoliv otázky, napište na: misanovak.web@gmail.com 
